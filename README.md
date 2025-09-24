@@ -17,7 +17,7 @@ This repository documents my learning journey in **Machine Learning and Artifici
 - **Other Tools:** Jupyter Notebooks, Git/GitHub, Google Colab  
 
 ## 📂 Repository Structure  
-
+```bash
 machine-learning-studies/
 │── notebooks/        # Jupyter notebooks with theory + experiments
 │── implementations/  # Algorithms coded from scratch
@@ -25,7 +25,7 @@ machine-learning-studies/
 │── projects/         # Applied ML mini-projects
 │── resources/        # Papers, articles, and references
 │── README.md         # Repository documentation
-
+```
 
 
 ## 📊 Projects & Experiments  
@@ -68,6 +68,6 @@ machine-learning-studies/
 
 ## 🧑‍💻 Author
 
-Maintained by **\[Your Name]** — documenting a continuous journey in AI, ML, and data science research.
+Maintained by Paulo Vitor Zasimowicz — documenting a continuous journey in AI, ML, and data science research.
 
 
