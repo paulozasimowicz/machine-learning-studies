@@ -1,0 +1,24 @@
+# Core Python data science libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+
+# Deep learning
+tensorflow
+torch
+torchvision
+torchaudio
+
+# Jupyter & notebooks
+jupyter
+notebook
+ipython
+
+# Utilities
+tqdm
+joblib
+scipy
