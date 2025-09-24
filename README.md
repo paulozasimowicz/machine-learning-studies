@@ -1,59 +1,73 @@
-📘 Machine Learning Studies
-🔍 Overview
+# 📘 Machine Learning Studies  
 
-This repository documents my learning journey in Machine Learning and Artificial Intelligence, focusing on both theoretical foundations and hands-on implementation. It serves as a study log, experiment hub, and reference for future research and applied projects.
+## 🔍 Overview  
+This repository documents my learning journey in **Machine Learning and Artificial Intelligence**, focusing on both theoretical foundations and hands-on implementation. It serves as a study log, experiment hub, and reference for future research and applied projects.  
 
-🎯 Learning Goals
+## 🎯 Learning Goals  
+- Understand core ML concepts (supervised, unsupervised, reinforcement learning).  
+- Implement algorithms from scratch to strengthen fundamentals.  
+- Apply machine learning methods using libraries such as **NumPy, pandas, scikit-learn, TensorFlow, and PyTorch**.  
+- Explore specialized areas such as **computer vision** and **deep learning architectures**.  
+- Develop reproducible workflows for experimentation and evaluation.  
 
-Understand core ML concepts (supervised, unsupervised, reinforcement learning).
+## 🛠️ Technologies & Tools  
+- **Programming Language:** Python  
+- **Core Libraries:** NumPy, pandas, matplotlib, scikit-learn  
+- **Deep Learning Frameworks:** TensorFlow, PyTorch  
+- **Other Tools:** Jupyter Notebooks, Git/GitHub, Google Colab  
 
-Implement algorithms from scratch to strengthen fundamentals.
+## 📂 Repository Structure  
 
-Apply machine learning methods using libraries such as NumPy, pandas, scikit-learn, TensorFlow, and PyTorch.
-
-Explore specialized areas such as computer vision and deep learning architectures.
-
-Develop reproducible workflows for experimentation and evaluation.
-
-🛠️ Technologies & Tools
-
-Programming Language: Python
-
-Core Libraries: NumPy, pandas, matplotlib, scikit-learn
-
-Deep Learning Frameworks: TensorFlow, PyTorch
-
-Other Tools: Jupyter Notebooks, Git/GitHub, Google Colab
-
-📂 Repository Structure
 machine-learning-studies/
 │── notebooks/        # Jupyter notebooks with theory + experiments
 │── implementations/  # Algorithms coded from scratch
-│── datasets/         # Example datasets (or links to sources)
+│── datasets/         # Example datasets (ignored by Git if large)
 │── projects/         # Applied ML mini-projects
 │── resources/        # Papers, articles, and references
 │── README.md         # Repository documentation
 
-📊 Projects & Experiments
 
-Linear Regression from scratch and with scikit-learn
 
-Classification with Decision Trees and Random Forests
+## 📊 Projects & Experiments  
+- Linear Regression from scratch and with scikit-learn  
+- Classification with Decision Trees and Random Forests  
+- Neural Networks basics with TensorFlow & PyTorch  
+- Image classification with CNNs  
+- Clustering with k-means and DBSCAN  
 
-Neural Networks basics with TensorFlow & PyTorch
+## ⚙️ How to Run  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/machine-learning-studies.git
+   cd machine-learning-studies
 
-Image classification with CNNs
 
-Clustering with k-means and DBSCAN
+2. Create a virtual environment:
 
-📚 References
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # On macOS/Linux
+   venv\Scripts\activate      # On Windows
+   ```
+3. Install dependencies:
 
-Pattern Recognition and Machine Learning — Christopher Bishop
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Launch Jupyter Notebook:
 
-Deep Learning — Ian Goodfellow, Yoshua Bengio, Aaron Courville
+   ```bash
+   jupyter notebook
+   ```
 
-Online courses, tutorials, and academic papers
+## 📚 References
 
-🧑‍💻 Author
+* *Pattern Recognition and Machine Learning* — Christopher Bishop
+* *Deep Learning* — Ian Goodfellow, Yoshua Bengio, Aaron Courville
+* Online courses, tutorials, and academic papers
 
-Maintained by [Your Name] — documenting a continuous journey in AI, ML, and data science research.
+## 🧑‍💻 Author
+
+Maintained by **\[Your Name]** — documenting a continuous journey in AI, ML, and data science research.
+
+
