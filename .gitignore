@@ -205,3 +205,47 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ----------------------------------------
+# Machine Learning / Data Science additions
+# ----------------------------------------
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.xml
+*.xls
+*.xlsx
+*.db
+*.sqlite
+*.parquet
+*.feather
+
+# Numpy / SciPy
+*.npy
+*.npz
+
+# Pickle / Joblib
+*.pkl
+*.joblib
+
+# PyTorch / TensorFlow / Keras models
+*.h5
+*.hdf5
+*.ckpt
+*.pth
+*.pt
+*.onnx
+checkpoint/
+
+# Experiment logs
+*.log
+logs/
+wandb/
+mlruns/
+
+# Outputs / results
+*.out
+*.metrics*
+
